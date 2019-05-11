@@ -1,0 +1,9 @@
+.select-song,
+.SongDetail {
+  margin: 2rem;
+  color: #fff;
+  font-size: 1.3rem;
+}
+.SongDetail-title {
+  margin-bottom: 1rem;
+}
