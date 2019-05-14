@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Song Selector App
+
+![songs-gif](https://user-images.githubusercontent.com/22102668/57725056-9af30080-7662-11e9-80a4-37ffb8a6d3d1.gif)
 
 In the project directory, you can run:
 
